@@ -179,6 +179,3 @@ Link to Wireframes: https://drive.google.com/file/d/1Om_bSPtu6KGgHMFjRXsULl4HYKB
 ### Use Case Diagram
 Link to Use Case Diagram: https://drive.google.com/file/d/1zFK2RYxU4hDRnwFMCjM5usZ0njqkoGO8/view?usp=sharing
 
-### Daily Standups
-Link to Daily Standup Log: https://docs.google.com/spreadsheets/d/1Z55A8hLo0H3X5AhpeViiq_23zo8IqnnnN-reYlHl_i0/edit?usp=sharing
-# Event-App
