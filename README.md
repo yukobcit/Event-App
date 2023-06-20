@@ -1,4 +1,4 @@
-# BCIT 2022-2023 Agilitek 3 ISSP
+# BCIT 2022-2023 Industry Project
 
 - [Getting Started](#getting-started)
 - [Set up CockroachDB](#set-up-cockroachdb)
